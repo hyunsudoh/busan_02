@@ -1,0 +1,10 @@
+CLAUDE.local.md
+.env
+.claude/settings.local.json
+inputs/
+transcripts/
+raw/
+tagged.csv
+Thumbs.db
+desktop.ini
+.DS_Store
